@@ -21,7 +21,7 @@ GEM
     pygments.rb (0.3.7)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    redcarpet (2.2.2)
+    redcarpet (3.5.1)
     syntax (1.0.0)
     yajl-ruby (1.1.0)
 
